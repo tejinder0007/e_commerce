@@ -177,10 +177,4 @@ Please ensure your code adheres to the project's coding style and includes relev
 
 -----
 
-## License
 
-(You'll need to choose and specify your license here, e.g., MIT, Apache 2.0, etc.)
-
-For example:
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
